@@ -9,7 +9,7 @@ requirement-by-requirement breakdown and `docs/architecture.md` /
 `architecture.pdf` for the 3-page design doc covering scale strategy, 413/429
 handling, distributed freshness, and storage justification.
 
-## ⚠️ Read this first
+## ⚠️ READ THIS FIRST
 
 This repo's code is real and tested (`pytest tests/unit` → 25/25 passing). The
 bulk 1,000+ row data acquisition, however, needs to run somewhere with open
