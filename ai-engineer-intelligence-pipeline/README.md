@@ -19,7 +19,7 @@ explains exactly why and exactly how to run the real crawl. This is disclosed
 here in full rather than filling the Sheet with plausible-looking fake rows,
 which the assessment explicitly treats as instant disqualification.
 
-## What's implemented and verified
+## What's implemented and VERIFIED
 
 | Component | Status |
 |---|---|
