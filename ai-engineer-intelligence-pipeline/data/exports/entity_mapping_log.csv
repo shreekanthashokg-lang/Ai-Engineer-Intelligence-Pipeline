@@ -1,0 +1,9 @@
+raw_name,normalized_name,canonical_name,entity_type,match_method,confidence,source_url,timestamp
+OpenAI,openai,OpenAI,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061061+00:00
+Open AI,open ai,OpenAI,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061190+00:00
+"OpenAI, Inc.",openai,OpenAI,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061211+00:00
+Anthropic PBC,anthropic,Anthropic,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061228+00:00
+DeepMind,deepmind,Google DeepMind,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061242+00:00
+Mistral AI SAS,mistral ai,Mistral AI,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061260+00:00
+unknown-stealth-startup-42,unknown-stealth-startup-42,unknown-stealth-startup-42,STARTUP,unresolved_new_entity,0.3,https://example-source.test/demo,2026-09-03T10:03:44.061439+00:00
+Cohere Inc,cohere,Cohere,STARTUP,alias,1.0,https://example-source.test/demo,2026-09-03T10:03:44.061463+00:00

@@ -1,0 +1,72 @@
+# Source registry. Each source declares its access method per the priority order:
+# official_api > rss > structured_endpoint > http > playwright > unavailable_documented
+#
+# NOTE: these are the sources this pipeline is *designed* to crawl. Executing the
+# crawl requires network access this build sandbox does not have — see RUNBOOK.md.
+
+research_papers:
+  - name: arxiv
+    access_method: official_api
+    endpoint: "http://export.arxiv.org/api/query"
+    notes: "Official ArXiv API, no auth required, rate-limited to ~1 req/3s per their guidance."
+  - name: papers_with_code
+    access_method: structured_endpoint
+    endpoint: "https://paperswithcode.com/api/v1/papers/"
+    notes: "Public REST API; use for GitHub repo correlation before falling back to page scraping."
+
+startups:
+  - name: ycombinator_directory
+    access_method: structured_endpoint
+    endpoint: "https://www.ycombinator.com/companies"
+    notes: "Public company directory; paginated, no auth required for listing pages."
+  - name: producthunt
+    access_method: official_api
+    endpoint: "https://api.producthunt.com/v2/api/graphql"
+    notes: "GraphQL API, requires a free developer token."
+  - name: crunchbase_basic
+    access_method: unavailable_documented
+    notes: "Full data requires a paid API tier; document as a scale-phase acquisition, not attempted in trial."
+
+products:
+  - name: producthunt
+    access_method: official_api
+    endpoint: "https://api.producthunt.com/v2/api/graphql"
+  - name: g2_directory
+    access_method: unavailable_documented
+    notes: "Cloudflare-protected, aggressive bot detection. Documented per Phase V rather than bypassed."
+
+news:
+  - name: techcrunch_ai
+    access_method: rss
+    endpoint: "https://techcrunch.com/category/artificial-intelligence/feed/"
+  - name: venturebeat_ai
+    access_method: rss
+    endpoint: "https://venturebeat.com/category/ai/feed/"
+  - name: the_verge_ai
+    access_method: rss
+    endpoint: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  - name: mit_technology_review_ai
+    access_method: rss
+    endpoint: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+  - name: ai_news
+    access_method: rss
+    endpoint: "https://www.artificialintelligence-news.com/feed/"
+
+jobs:
+  - name: greenhouse_ai_search
+    access_method: structured_endpoint
+    endpoint: "https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
+    notes: "Per-company public JSON API, no auth. Iterate over known AI-company job boards."
+  - name: lever_ai_search
+    access_method: structured_endpoint
+    endpoint: "https://api.lever.co/v0/postings/{company}"
+  - name: wellfound
+    access_method: playwright
+    notes: "JS-rendered search results; public pages only, respects robots.txt."
+  - name: remoteok
+    access_method: official_api
+    endpoint: "https://remoteok.com/api"
+  - name: hacker_news_who_is_hiring
+    access_method: official_api
+    endpoint: "https://hacker-news.firebaseio.com/v0/item/{thread_id}.json"
+    notes: "Official HN Firebase API; parse monthly 'Who is Hiring' thread for AI-relevant postings."

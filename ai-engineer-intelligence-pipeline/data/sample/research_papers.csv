@@ -1,0 +1,4 @@
+schemaVersion,recordType,content.title,content.authors,content.paper_url,content.github_url,content.github_stars,content.published_date
+1.0,RESEARCH_PAPER,Attention Is All You Need,Vaswani et al.,https://arxiv.org/abs/1706.03762,https://github.com/tensorflow/tensor2tensor,UNKNOWN,UNKNOWN
+1.0,RESEARCH_PAPER,Llama 2: Open Foundation and Fine-Tuned Chat Models,Touvron et al.,https://arxiv.org/abs/2307.09288,https://github.com/meta-llama/llama,UNKNOWN,UNKNOWN
+1.0,RESEARCH_PAPER,LoRA: Low-Rank Adaptation of Large Language Models,Hu et al.,https://arxiv.org/abs/2106.09685,https://github.com/microsoft/LoRA,UNKNOWN,UNKNOWN

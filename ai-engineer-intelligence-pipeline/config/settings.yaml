@@ -1,0 +1,25 @@
+concurrency:
+  default_worker_count: 10
+  max_worker_count: 200   # raise this (and add container replicas) to scale toward 500k+ records
+
+freshness:
+  window_hours: 24
+  min_date_confidence: 0.6
+
+retry:
+  max_retries: 4
+  base_delay_s: 1.0
+  max_delay_s: 30.0
+
+circuit_breaker:
+  failure_threshold: 5
+  cooldown_s: 60
+
+entity_resolution:
+  fuzzy_min_similarity: 0.88
+  fuzzy_max_length_ratio_delta: 0.35
+
+storage:
+  primary: postgresql
+  vector_extension: pgvector
+  cache: redis
