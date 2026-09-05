@@ -11,7 +11,7 @@ handling, distributed freshness, and storage justification.
 
 ## ⚠️ READ THIS FIRST
 
-This repo's code is real and tested (`pytest tests/unit` → 25/25 passing). The
+THIS REPO'S code is real and tested (`pytest tests/unit` → 25/25 passing). The
 bulk 1,000+ row data acquisition, however, needs to run somewhere with open
 internet access to arxiv.org / paperswithcode.com / job boards / news feeds —
 the environment this repo was assembled in does not have that. **`RUNBOOK.md`**
