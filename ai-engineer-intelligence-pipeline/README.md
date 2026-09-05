@@ -83,6 +83,6 @@ schema, or orchestration code changes required.
 
 See the tree in `REQUIREMENTS.md` — mirrors the structure requested in the brief.
 
-## License
+##  LIECENCE
 
 MIT — see `LICENSE`.
