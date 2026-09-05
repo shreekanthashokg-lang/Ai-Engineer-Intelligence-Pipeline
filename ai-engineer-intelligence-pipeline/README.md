@@ -79,7 +79,7 @@ Scaling from this trial's ~3k records to 500,000+ is purely a matter of raising
 `AsyncWorkerPool(concurrency=...)` and adding worker containers — no adapter,
 schema, or orchestration code changes required.
 
-## Repo layout
+##  REPO LAYOUT
 
 See the tree in `REQUIREMENTS.md` — mirrors the structure requested in the brief.
 
