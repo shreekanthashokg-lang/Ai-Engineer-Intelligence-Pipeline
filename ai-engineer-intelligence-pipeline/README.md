@@ -47,7 +47,7 @@ python scripts/export_google_sheets.py --dry-run
 
 For the full bulk crawl + Sheet upload: see `RUNBOOK.md`.
 
-##  ARCHITECTURE (short version)
+##  ARCHITECTURE (SHORTER VERSION)
 
 ```
 source adapter (API/RSS/HTTP/Playwright)
