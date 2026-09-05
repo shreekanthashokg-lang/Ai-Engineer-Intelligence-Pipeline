@@ -36,7 +36,7 @@ which the assessment explicitly treats as instant disqualification.
 | Source adapters (arxiv/paperswithcode/YC/news RSS/job boards) | 🔶 scaffolded per `config/sources.yaml`; execution needs open network, see `RUNBOOK.md` |
 | Live bulk data (1,000+ rows/tab) | 🔶 not generated from this sandbox — see `RUNBOOK.md` |
 
-## Quickstart
+## QUIKSTART
 
 ```bash
 pip install -r requirements.txt
