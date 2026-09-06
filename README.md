@@ -40,7 +40,7 @@ plausible-looking fake rows.
 
 ---
 
-## What's implemented and verified
+## What's implemented AND VERIFIED
 
 | Component | Status |
 |---|---|
