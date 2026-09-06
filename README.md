@@ -11,7 +11,7 @@ scale strategy, 413/429 handling, distributed freshness, and storage justificati
 
 ---
 
-## ⚠️ Read this first
+## ⚠️ READ THIS FIRST
 
 This repo's code is real and tested — `pytest tests/unit` → **25/25 passing**, with
 zero network access or API keys required to verify that. Every record schema
