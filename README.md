@@ -4,7 +4,7 @@ INGESTION PIPELINE for the GraphOne / FrontierAtlas AI-and-venture Intelligence
 Graph: startups, products, research papers (with live GitHub star tracking),
 24-hour-fresh AI news, and 24-hour-fresh AI jobs.
 
-Built for the **AI Engineer demo task** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
+Built for the **AI ENGINEER demo task** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
 for the full requirement-by-requirement breakdown, and [`architecture.pdf`](./architecture.pdf)
 / [`docs/architecture.md`](./docs/architecture.md) for the 3-page design doc covering
 scale strategy, 413/429 handling, distributed freshness, and storage justification.
