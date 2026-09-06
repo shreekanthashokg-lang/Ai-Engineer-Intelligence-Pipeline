@@ -61,7 +61,7 @@ plausible-looking fake rows.
 
 ---
 
-## Quickstart
+## QUICKSTART
 
 ```bash
 pip install -r requirements.txt
