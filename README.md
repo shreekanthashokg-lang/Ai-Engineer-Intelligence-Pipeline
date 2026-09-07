@@ -84,7 +84,7 @@ own LLM/GitHub API KEYS.
 
 ---
 
-## ARCHITECTURE (short version)
+## ARCHITECTURE (SHORTER VERSION)
 
 ```
 source adapter (API / RSS / HTTP / Playwright)
