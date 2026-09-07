@@ -42,7 +42,7 @@ plausible-looking fake rows.
 
 ## WHAT'S IMPLEMENTED AND VERIFIED
 
-| Component | Status |
+| Component | STATUS |
 |---|---|
 | Pydantic schemas with provenance envelope | ✅ implemented, tested |
 | Date normalizer (ISO / relative / JSON-LD / OpenGraph / meta tags) | ✅ implemented, 9 tests passing |
