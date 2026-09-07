@@ -36,7 +36,7 @@ not just policy-discouraged.
 
 NOTHING IS the Delivered DATASET is fabricated. Where data isn't yet populated,
 it's left as an empty tab with correct headers rather than padded with
-plausible-looking fake rows.
+plausible-looking fake ROWS.
 
 ---
 
