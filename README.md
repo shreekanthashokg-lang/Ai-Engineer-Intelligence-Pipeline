@@ -119,7 +119,7 @@ adapter, schema, or orchestration code changes required. Full reasoning in
 
 ---
 
-## Repo layout
+## REPO LAYOUT
 
 ```
 ai-engineer-intelligence-pipeline/
