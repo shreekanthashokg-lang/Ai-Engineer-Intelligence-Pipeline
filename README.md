@@ -80,7 +80,7 @@ For the full bulk crawl and a live Google Sheet with 1,000+ real rows per tab,
 run [`colab_complete_submission.py`](./colab_complete_submission.py) in
 [Google Colab](https://colab.research.google.com) (free, no local install, open
 internet) — or follow [`RUNBOOK.md`](./RUNBOOK.md) to run it locally with your
-own LLM/GitHub API keys.
+own LLM/GitHub API KEYS.
 
 ---
 
