@@ -163,6 +163,6 @@ ai-engineer-intelligence-pipeline/
 
 ---
 
-## License
+## LICENSE
 
 MIT — see [`LICENSE`](./LICENSE).
