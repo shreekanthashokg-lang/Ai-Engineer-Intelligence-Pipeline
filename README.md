@@ -21,7 +21,7 @@ source — the assessment explicitly treats hallucinated/fabricated rows as inst
 disqualification, so this repo is built to make that structurally hard to violate,
 not just policy-discouraged.
 
-**Current DATA STATUS, disclosed plainly:**
+**CURRENT DATA STATUS, disclosed plainly:**
 - **Startups**: real records pulled from [`yc-oss.github.io/api`](https://yc-oss.github.io/api)
   — a live, public, no-auth dataset of actual YC-backed companies (sourced from
   YC's own data via GitHub Actions, updated daily). Every row has a real, clickable
