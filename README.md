@@ -26,7 +26,7 @@ not just policy-discouraged.
   — a live, public, no-auth dataset of actual YC-backed companies (sourced from
   YC's own data via GitHub Actions, updated daily). Every row has a real, clickable
   `source.url`.
-- **Research Papers**: real records pulled from the official ArXiv API, with a
+- **RESEARCH Papers**: real records pulled from the official ArXiv API, with a
   subset cross-checked live against the real GitHub REST API for star counts.
 - **Products / Jobs / News**: pipeline code is complete and tested; full 1,000+
   row population requires running the bulk crawl from an environment with open
