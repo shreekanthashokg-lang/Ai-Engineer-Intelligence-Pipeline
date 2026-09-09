@@ -22,7 +22,7 @@ disqualification, so this repo is built to make that structurally hard to violat
 not just policy-discouraged.
 
 **CURRENT DATA STATUS, DISCOLDE PLAINLY:**
-- **Startups**: real records pulled from [`yc-oss.github.io/api`](https://yc-oss.github.io/api)
+- **Startups**: real RECORDS pulled from [`yc-oss.github.io/api`](https://yc-oss.github.io/api)
   — a live, public, no-auth dataset of actual YC-backed companies (sourced from
   YC's own data via GitHub Actions, updated daily). Every row has a real, clickable
   `source.url`.
