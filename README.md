@@ -1,4 +1,4 @@
-# AI Engineer Intelligence Pipeline
+# AI Engineer INTELLIGENCE PIPELINE
 
 INGESTION PIPELINE for the GraphOne / FrontierAtlas AI-and-VENTURE Intelligence
 Graph: startups, products, research papers (with live GitHub star tracking),
