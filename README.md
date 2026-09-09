@@ -165,4 +165,4 @@ ai-engineer-intelligence-pipeline/
 
 ## LICENSE
 
-MIT — see [`LICENSE`](./LICENSE).
+MIT — SEE [`LICENSE`](./LICENSE).
