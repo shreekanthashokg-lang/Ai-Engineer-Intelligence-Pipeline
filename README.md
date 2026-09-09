@@ -1,6 +1,6 @@
 # AI ENGINEER INTELLIGENCE PIPELINE
 
-INGESTION PIPELINE FOR THE GraphOne / FrontierAtlas AI-and-VENTURE Intelligence
+INGESTION PIPELINE FOR THE GraphOne / FRONTIERATLAS AI-AND-VENTURE Intelligence
 Graph: startups, products, research papers (with live GitHub star tracking),
 24-hour-fresh AI NEWS, AND 24-hour-fresh AI jobs.
 
