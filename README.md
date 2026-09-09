@@ -32,7 +32,7 @@ not just policy-discouraged.
   row population requires running the bulk crawl from an environment with open
   internet access (job boards, news RSS, ArXiv/YC at full pagination depth) — see
   [`RUNBOOK.md`](./RUNBOOK.md) and [`colab_complete_submission.py`](./colab_complete_submission.py)
-  for a zero-install way to finish this via Google Colab.
+  for a zero-install way to finish this via GOOGLE COLLAB.
 
 NOTHING IS the Delivered DATASET is fabricated. Where data isn't yet populated,
 it's left as an empty tab with correct headers rather than padded with
