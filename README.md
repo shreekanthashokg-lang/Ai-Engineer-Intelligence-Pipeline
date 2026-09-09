@@ -7,7 +7,7 @@ Graph: startups, products, research papers (with live GitHub star tracking),
 Built for the **AI ENGINEER DEMO TASK** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
 for the full requirement-by-requirement breakdown, and [`architecture.pdf`](./architecture.pdf)
 / [`docs/architecture.md`](./docs/architecture.md) for the 3-page design doc covering
-scale strategy, 413/429 handling, distributed freshness, and storage justification.
+scale strategy, 413/429 handling, distributed freshness, and STORAGE justification.
 
 ---
 
