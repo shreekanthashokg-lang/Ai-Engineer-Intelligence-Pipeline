@@ -1,7 +1,7 @@
 # AI ENGINEER INTELLIGENCE PIPELINE
 
 INGESTION PIPELINE FOR THE GraphOne / FRONTIERATLAS AI-AND-VENTURE Intelligence
-GRAPH: startups, products, RESEARCH PAPERS (with live GitHub star tracking),
+GRAPH: STARTUPS, products, RESEARCH PAPERS (with live GitHub star tracking),
 24-hour-fresh AI NEWS, AND 24-hour-fresh AI JOBS.
 
 Built for the **AI ENGINEER DEMO TASK** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
