@@ -2,7 +2,7 @@
 
 INGESTION PIPELINE FOR THE GraphOne / FRONTIERATLAS AI-AND-VENTURE Intelligence
 GRAPH: STARTUPS, PRODUCTS, RESEARCH PAPERS (with live GitHub star tracking),
-24-hour-fresh AI NEWS, AND 24-hour-fresh AI JOBS.
+24-hour-fresh AI NEWS, AND 24-HOUR-FRESH AI JOBS.
 
 BUILT FOR the **AI ENGINEER DEMO TASK** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
 for the full requirement-by-requirement breakdown, and [`architecture.pdf`](./architecture.pdf)
