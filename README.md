@@ -13,7 +13,7 @@ SCALE STRATERGY, 413/429 handling, distributed FRESHNESS AND STORAGE JUSTIFICATI
 
 ## ⚠️ READ THIS FIRST
 
-THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 passing**, with
+THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 PASSING**, with
 zero network access or API keys required to verify that. Every record schema
 enforces a provenance envelope (`source.url`, `retrieved_at`, `extraction_method`,
 `confidence`, `raw_hash`), so no field can exist without a traceable, legitimate
