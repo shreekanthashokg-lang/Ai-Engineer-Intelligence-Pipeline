@@ -34,7 +34,7 @@ not just policy-discouraged.
   [`RUNBOOK.md`](./RUNBOOK.md) and [`colab_complete_submission.py`](./colab_complete_submission.py)
   for a zero-install way to finish this via GOOGLE COLLAB.
 
-NOTHING IS THE DELIVERED DATASET IS FABRICATES. Where data isn't yet populated,
+NOTHING IS THE DELIVERED DATASET IS FABRICATES. WHERE DATA isn't yet populated,
 it's left as an empty tab with correct headers rather than padded with
 plausible-looking fake ROWS.
 
