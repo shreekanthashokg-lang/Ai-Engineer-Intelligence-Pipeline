@@ -23,7 +23,7 @@ not just policy-discouraged.
 
 **CURRENT DATA STATUS, DISCOLDE PLAINLY:**
 - **STARTUPS**: real RECORDS pulled from [`yc-oss.github.io/api`](https://yc-oss.github.io/api)
-  — a live, public, no-auth dataset of actual YC-backed companies (sourced from
+  — A LIVE, PUBLIC, no-auth dataset of actual YC-backed companies (sourced from
   YC's own data via GitHub Actions, updated daily). Every row has a real, clickable
   `source.url`.
 - **RESEARCH PAPERS**: real records pulled from the official ArXiv API, with a
