@@ -75,7 +75,7 @@ python scripts/generate_demo_data_report.py
 python scripts/export_google_sheets.py --dry-run
 ```
 
-For THE FULL BULK crawl and a LIVE GOOGLE SHEET with 1,000+ real rows per tab,
+For THE FULL BULK crawl and a LIVE GOOGLE SHEET with 1,000+ REAL ROWS PER TABLE,
 run [`colab_complete_submission.py`](./colab_complete_submission.py) in
 [Google Colab](https://colab.research.google.com) (free, no local install, open
 internet) — or follow [`RUNBOOK.md`](./RUNBOOK.md) to run it locally with your
