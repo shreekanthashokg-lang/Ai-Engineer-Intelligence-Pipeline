@@ -118,7 +118,7 @@ adapter, schema, or orchestration code changes required. Full reasoning in
 
 ---
 
-## REPO LAYOUT
+## COMPLETE ARCHITECTURAL REPO LAYOUT
 
 ```
 ai-engineer-intelligence-pipeline/
