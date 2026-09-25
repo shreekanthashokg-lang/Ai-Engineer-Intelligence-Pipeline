@@ -41,7 +41,7 @@ plausible-looking FAKE ROWS.
 
 ## WHAT'S IMPLEMENTED AND VERIFIED
 
-| COMPONENT | STATUS |
+| COMPONENT | CURRENT WHATS STATUS |
 |---|---|
 | Pydantic SCHEMAS WITH provenance envelope | ✅ Implemented, TESTED |
 | Date normalizer (ISO / relative / JSON-LD / OpenGraph / meta tags) | ✅ implemented, 9 tests passing |
