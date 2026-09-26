@@ -60,7 +60,7 @@ plausible-looking FAKE ROWS.
 
 ---
 
-## QUICKSTART
+## HOW TO BIGIN THIS PROJECT : QUICKSTART
 
 ```bash
 pip install -r requirements.txt
