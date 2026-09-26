@@ -162,6 +162,6 @@ ai-engineer-intelligence-pipeline/
 
 ---
 
-## LICENSE
+## ARCHITECTURE LAYOUT LICENSE
 
 MIT — SEE [`LICENSE`](./LICENSE).
