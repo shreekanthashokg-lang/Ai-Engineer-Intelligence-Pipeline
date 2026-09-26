@@ -4,7 +4,7 @@ INGESTION PIPELINE FOR THE GRAPHONE / FRONTIERATLAS AI-AND-VENTURE Intelligence
 GRAPH: STARTUPS, PRODUCTS, RESEARCH PAPERS (with live GitHub STAR TRACKING),
 24-hour-fresh AI NEWS, AND 24-HOUR-FRESH AI JOBS.
 
-BUILT FOR the **AI ENGINEER DEMO TASK** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
+BUILT FOR THE COMPLETE  **AI ENGINEER DEMO TASK** (The AI Signal). See [`REQUIREMENTS.md`](./REQUIREMENTS.md)
 for the full requirement-by-requirement breakdown, and [`architecture.pdf`](./architecture.pdf)
 / [`docs/architecture.md`](./docs/architecture.md) for the 3-page design doc covering
 SCALE STRATERGY, 413/429 handling, distributed FRESHNESS AND STORAGE JUSTIFICATION.
