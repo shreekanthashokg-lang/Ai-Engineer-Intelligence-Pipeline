@@ -34,8 +34,7 @@ not just policy-discouraged.
   for a zero-install way to finish this via GOOGLE COLLAB.
 
 NOTHING IS THE DELIVERED DATASET IS FABRICATES. WHERE DATA IS NOT YET POPULATED.
-it's left as an empty tab with correct headers RATHER THAN padded with
-plausible-looking FAKE ROWS.
+it's left as an empty tab with correct headers 
 
 ---
 
