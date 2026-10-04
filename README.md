@@ -74,8 +74,8 @@ python scripts/export_google_sheets.py --dry-run
 FOR  THE FULL BULK CRAWL AND A LIVE GOOGLE SHEET WITH 1,000+ REAL ROWS PER TABLE,
 run [`colab_complete_submission.py`](./colab_complete_submission.py) in
 [Google Colab](https://colab.research.google.com) (free, no local install, open
-internet) — or follow [`RUNBOOK.md`](./RUNBOOK.md) to run it locally with your
-own LLM/GitHub API KEYS.
+internet) — or follow [`RUNBOOK.md`](./RUNBOOK.md) TOO  RUN IT LOCALLY WITH YOUE OWN LLM 
+/GitHub API KEYS.
 
 ---
 
