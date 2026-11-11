@@ -109,7 +109,7 @@ CSV / XLSX exporters ── Google Sheets API upload
 ```
 
 SCALLING FROM THIS trial's dataset to 500,000+ RECORDS IS PURELY A MATTER OF 
-raising `AsyncWorkerPool(concurrency=...)` and adding worker containers — no
+raising `AsyncWorkerPool(concurrency=...)` AND ADDING WORKER CONTAINERS  — no
 adapter, schema, or orchestration code changes required. FULL REASONING IN
 [`docs/scaling.md`](./docs/scaling.md).
 
