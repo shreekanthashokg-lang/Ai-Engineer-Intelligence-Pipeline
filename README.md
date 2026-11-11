@@ -32,7 +32,7 @@ not just policy-discouraged.
   row population requires running the bulk crawl from an environment with open
   internet access (job boards, news RSS, ArXiv/YC at full pagination depth) — see
   [`RUNBOOK.md`](./RUNBOOK.md) and [`colab_complete_submission.py`](./colab_complete_submission.py)
-  for a zero-install way to finish this via GOOGLE COLLAB.
+  FOE A ZERO INSTALL WAY TO FINISH WAY to finish this via GOOGLE COLLAB.
 
 ---
 
