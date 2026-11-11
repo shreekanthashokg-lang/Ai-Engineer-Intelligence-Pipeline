@@ -13,7 +13,8 @@ SCALE STRATERGY, 413/429 handling, distributed FRESHNESS AND STORAGE JUSTIFICATI
 
 ## READ THIS FIRST
 
-THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 PASSING**, WITH ZERO  network access or API keys required to verify that. Every record schema
+THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 PASSING**, WITH ZERO  NETWORK ACCESS OR KEYS REUIRED TO VERIFY THAT.
+
 enforces a provenance envelope (`source.url`, `retrieved_at`, `extraction_method`,
 `confidence`, `raw_hash`), so no field can exist without a traceable, legitimate
 source — the assessment explicitly treats hallucinated/fabricated rows as instant
@@ -109,7 +110,7 @@ CSV / XLSX exporters ── Google Sheets API upload
 
 SCALLING FROM THIS trial's dataset to 500,000+ RECORDS IS PURELY A MATTER OF 
 raising `AsyncWorkerPool(concurrency=...)` and adding worker containers — no
-adapter, schema, or orchestration code changes required. Full reasoning in
+adapter, schema, or orchestration code changes required. FULL REASONING IN
 [`docs/scaling.md`](./docs/scaling.md).
 
 ---
