@@ -53,7 +53,7 @@ not just policy-discouraged.
 | CSV / XLSX exporters (6-tab layout) | ✅ implemented, ran end-to-end |
 | Google Sheets uploader | ✅ implemented, dry-run tested |
 | Source adapters — ArXiv, YC directory, news RSS, Greenhouse/Lever jobs | ✅ IMPLEMENTED against real, documented endpoints |
-| Bulk data at full 1,000+ rows/tab | 🔶 REQUIRES an execution environment with open internet — see `RUNBOOK.md` |
+| Bulk data at full 1,000+ rows/tab | 🔶 REQUIRES AN EXECUTION ENVIRONMENT WITH OPEN INTERNET  — see `RUNBOOK.md` |
 
 ---
 
