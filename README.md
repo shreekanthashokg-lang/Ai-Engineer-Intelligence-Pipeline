@@ -40,7 +40,7 @@ not just policy-discouraged.
 
 | COMPONENT | CURRENT WHATS STATUS |
 |---|---|
-| Pydantic SCHEMAS WITH provenance envelope | ✅ Implemented, TESTED |
+| Pydantic SCHEMAS WITH PROVERENCE ENVELOP | ✅ Implemented, TESTED |
 | Date normalizer (ISO / relative / JSON-LD / OpenGraph / meta tags) | ✅ implemented, 9 tests passing |
 | Token budget + intelligent semantic chunking (413 handling) | ✅ implemented, 4 tests passing |
 | Exponential backoff + jitter + circuit breaker (429 handling) | ✅ implemented, 7 tests passing — **live-verified against a real 429 from the GitHub API** |
