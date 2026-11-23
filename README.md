@@ -45,7 +45,7 @@ JSON
 "raw_hash": "..."
 }
 
-This design prevents silent hallucination, unverifiable enrichment, and fabricated entities.
+THIS DESIGN PREVENTS SILENT HALLUCINATION, UNVERIFIABLE ENVRICHMENT AND FABRICATED ENTITIES.
 
 A record cannot exist in downstream storage without source attribution.
 
