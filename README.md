@@ -18,7 +18,7 @@ THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 PASSING*
 enforces a provenance envelope (`source.url`, `retrieved_at`, `extraction_method`,
 `confidence`, `raw_hash`), SO NO FIELD CAN EXIST WITHIOUT A TRACEABLE, legitimate
 source — the assessment explicitly treats hallucinated/fabricated rows as instant
-disqualification, so this repo is built to make that structurally hard to violate,
+DISQUALIFICATION, SO THIS REPO IS BUILT TO MAKE that structurally hard to violate,
 not just policy-discouraged.
 
 **CURRENT DATA STATUS, DISCOLDE PLAINLY:**
