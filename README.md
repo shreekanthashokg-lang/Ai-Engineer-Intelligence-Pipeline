@@ -47,7 +47,7 @@ JSON
 
 THIS DESIGN PREVENTS SILENT HALLUCINATION, UNVERIFIABLE ENVRICHMENT AND FABRICATED ENTITIES.
 
-A record cannot exist in downstream storage without source attribution.
+A RECORD CANNOT EXIST IN DOWNSTREAM STORAGE WITHOUT SOURCE ATTRIBUTION. 
 
 This is especially important because the assessment explicitly identifies fabricated or unverifiable records as a disqualifying failure mode.
 
