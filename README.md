@@ -15,7 +15,7 @@ SCALE STRATERGY, 413/429 handling, distributed FRESHNESS AND STORAGE JUSTIFICATI
 
 THIS REPO'S CODE IS REAL AND TESTED — `pytest tests/unit` → **25/25 PASSING**, WITH ZERO  NETWORK ACCESS OR KEYS REUIRED TO VERIFY THAT.
 
-enforces a provenance envelope (`source.url`, `retrieved_at`, `extraction_method`,
+ENFORCES A  provenance envelope (`source.url`, `retrieved_at`, `extraction_method`,
 `confidence`, `raw_hash`), SO NO FIELD CAN EXIST WITHIOUT A TRACEABLE, legitimate
 source — the assessment explicitly treats hallucinated/fabricated rows as instant
 DISQUALIFICATION, SO THIS REPO IS BUILT TO MAKE that structurally hard to violate,
