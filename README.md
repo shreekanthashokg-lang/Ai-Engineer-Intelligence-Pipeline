@@ -34,7 +34,7 @@ The architecture follows six core design principles:
 
 Every field stored in the system must be traceable back to an original source.
 
-Each extracted record carries a provenance envelope:
+EACH EXTRACTED RECORD CARRIES A PROVENANCE  EXTRACTED RECORD CARRIES A PROVEVENANCE ENVELOPE:
 
 JSON
 {
