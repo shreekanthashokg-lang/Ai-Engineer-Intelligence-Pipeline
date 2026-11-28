@@ -151,7 +151,7 @@ Product
 ▼
 Hiring Activity
 
-This creates an intelligence graph rather than isolated datasets.
+THIS CREATES AN INTELLIGENCE GRAPH RATHER THAN ISOLATED DATASETS. 
 
 Examples:
 
