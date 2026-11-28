@@ -111,8 +111,7 @@ THESE MECHANSIMS ARE IMPLEMENTED AS REUSABLE INFRASTRUCTURE RATHER THAN SOURCE-S
 
 5. Horizontal Scale
 
-The architecture was intentionally designed to scale without requiring application-layer rewrites.
-
+THE ARCHITECTURE WAS INTENTIONALLY DESIGNED TO SCALE WITHOUT REQUIRING APPLICATION-LAYER REWRITES. 
 Scaling from:
 
 Plain Text
