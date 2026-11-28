@@ -51,12 +51,11 @@ A RECORD CANNOT EXIST IN DOWNSTREAM STORAGE WITHOUT SOURCE ATTRIBUTION.
 
 This is especially important because the assessment explicitly identifies fabricated or unverifiable records as a disqualifying failure mode.
 
-2. Deterministic Extraction Before AI
+2. DETERMINISTIC EXTRACTION BEFORE AI 
 
-The system intentionally minimizes LLM usage.
+THE SYSTEM INTENTIONALLY MINIMIZES LLM USAGE. 
 
-WHENEVER structured data exists, deterministic extraction is used:
-
+WHENEVER STRUCTURED DATA EXISTS, DETERMINISTIC EXTRACTION IS USED : 
 JSON APIs
 RSS feeds
 OpenGraph tags
