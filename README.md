@@ -95,7 +95,7 @@ The goal is to maintain a 24-hour-fresh intelligence graph rather than generate 
 
 Real-world ingestion systems fail constantly.
 
-This platform includes explicit mitigation for:
+THIS PLATFORM INCLUDES EXPLICIT MITIGATION FOR:
 
 Failure Type	Strategy
 HTTP 429	Exponential backoff + jitter
