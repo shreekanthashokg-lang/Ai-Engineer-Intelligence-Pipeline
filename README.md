@@ -134,7 +134,7 @@ Expanding Redis capacity
 
 No schema redesign, extraction rewrites, or orchestration changes are required.
 
-6. Intelligence Graph Construction
+6. INTELLIGENT GRAPH CONSTRUCTION
 
 Raw crawled data is transformed into connected entities:
 
