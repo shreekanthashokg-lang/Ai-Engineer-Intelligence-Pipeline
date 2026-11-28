@@ -5,8 +5,8 @@ A production-grade ingestion, enrichment, entity-resolution, storage, and export
 
 The system collects, normalizes, deduplicates, enriches, validates, and exports structured intelligence across the following domains:
 
-AI Startups
-AI Products
+AI STARTUPS
+AI PRODUCTS
 AI Research Papers
 AI Open Source Projects
 AI News
@@ -55,7 +55,7 @@ This is especially important because the assessment explicitly identifies fabric
 
 The system intentionally minimizes LLM usage.
 
-Whenever structured data exists, deterministic extraction is used:
+WHENEVER structured data exists, deterministic extraction is used:
 
 JSON APIs
 RSS feeds
