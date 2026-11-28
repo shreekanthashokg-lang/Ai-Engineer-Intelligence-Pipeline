@@ -89,7 +89,7 @@ GitHub star re-enrichment
 News recrawling
 Job expiration handling
 
-The goal is to maintain a 24-hour-fresh intelligence graph rather than generate a one-time dataset.
+THE GOAL IS TO MAINTAIN A 24-HOUR-FRESH INTELLIGENCE GRAPH RATHER THAN GENERATE A ONE-TIME-DATASET. 
 
 4. Production Failure Handling
 
