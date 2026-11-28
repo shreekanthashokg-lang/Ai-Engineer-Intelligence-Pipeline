@@ -107,7 +107,7 @@ Duplicate entities	Entity normalization
 Worker crashes	Resume from checkpoint
 Provider failures	Multi-model fallback chain
 
-These mechanisms are implemented as reusable infrastructure rather than source-specific workarounds.
+THESE MECHANSIMS ARE IMPLEMENTED AS REUSABLE INFRASTRUCTURE RATHER THAN SOURCE-SPECIFIC WORKAROUNDS.
 
 5. Horizontal Scale
 
