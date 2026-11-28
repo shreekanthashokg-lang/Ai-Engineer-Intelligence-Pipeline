@@ -26,7 +26,7 @@ See:
 ./RUNBOOK.md for production execution instructions
 Executive Summary
 
-This repository implements a fully operational intelligence pipeline capable of transforming unstructured web content into a structured, traceable, and continuously updated intelligence graph.
+THIS REPOSITORY IMPLEMENTS A FULLY OPERATIONAL INTELLIGENCE PIPELINE CAPABLE OF transforming unstructured web content into a structured, traceable, and continuously updated intelligence graph.
 
 The architecture follows six core design principles:
 
